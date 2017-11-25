@@ -10,7 +10,7 @@
 
 有个简单的例子，制造塑料玩具的压塑粉都是一样的，但使用不同的塑料模具就能产出不同的外形。比如，有一个工厂方法，输入是目标外形（鸭子或小车）的名称，输出则是要求的塑料外形，正如同一份三文鱼，大佬和菜鸟做出来肯定不一样的。
 
-![text](1.JPG)
+![text](https://github.com/GraySilver/GraySilver-Page/raw/master/pic/easyfactory/1.JPG)
 
 Django框架是使用工厂方法来创建表单字段的，Django的forms模块支持不同种类字段(CharField、EmailField) 的 创 建 和 定 制(max_length、required)。
 
