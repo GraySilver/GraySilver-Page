@@ -11,3 +11,8 @@
 [机器学习：聊聊贝叶斯推断的衍生思想](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%EF%BC%9A%E8%81%8A%E8%81%8A%E8%B4%9D%E5%8F%B6%E6%96%AF%E6%8E%A8%E6%96%AD%E7%9A%84%E8%A1%8D%E7%94%9F%E6%80%9D%E6%83%B3.md)
 
 [朴素贝叶斯算法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%AE%97%E6%B3%95.md)
+
+[基于内容推荐(CB)的推荐算法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E5%9F%BA%E4%BA%8E%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90(CB)%E7%9A%84%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
+
+[基于用户协同过滤(User-CF)的推荐算法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4(User-CF)%E7%9A%84%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
+
