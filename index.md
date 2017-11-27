@@ -16,3 +16,5 @@
 
 [基于用户协同过滤(User-CF)的推荐算法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E5%9F%BA%E4%BA%8E%E7%94%A8%E6%88%B7%E5%8D%8F%E5%90%8C%E8%BF%87%E6%BB%A4(User-CF)%E7%9A%84%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95.md)
 
+[异常值检测常用方法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E5%BC%82%E5%B8%B8%E5%80%BC%E6%A3%80%E6%B5%8B%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
+
