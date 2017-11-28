@@ -18,3 +18,6 @@
 
 [异常值检测常用方法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/%E5%BC%82%E5%B8%B8%E5%80%BC%E6%A3%80%E6%B5%8B%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
 
+[Bandit算法](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/Bandit算法.md)
+
+
