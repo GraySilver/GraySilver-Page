@@ -27,7 +27,7 @@ pl.stem(k, pcoin, basefmt="k-")
 pl.margins(0.1)
 ```
 
-![](http://p049l0wjx.bkt.clouddn.com/1_1.png)
+![](http://graysliver.oss-cn-shenzhen.aliyuncs.com/1_1.png)
 
 下面是投掷6次骰子，出现6点的概率分布。
 
@@ -45,7 +45,7 @@ pl.stem(k, pdice, basefmt="k-")
 pl.margins(0.1)
 ```
 
-![](http://p049l0wjx.bkt.clouddn.com/1_2.png)
+![](http://graysliver.oss-cn-shenzhen.aliyuncs.com/1_2.png)
 
 #### Beta分布
 
@@ -71,7 +71,7 @@ xlabel("$p$")
 legend(loc="best");
 ```
 
-![](http://p049l0wjx.bkt.clouddn.com/1_3.png)
+![](http://graysliver.oss-cn-shenzhen.aliyuncs.com/1_3.png)
 
 下面绘制$n=10, k=4$和$n=20, k=8$的概率分布。可以看出峰值都在$p=0.4$处，但是$n=20$的山峰更陡峭。也就是说随着实验次数的增加，$p$取其它值的可能就越小，对$p$的估计就更有信心，因此山峰也就更陡峭了。
 
@@ -90,7 +90,7 @@ xlabel("$p$")
 legend(loc="best")
 ```
 
-![](http://p049l0wjx.bkt.clouddn.com/1_4.png)
+![](http://graysliver.oss-cn-shenzhen.aliyuncs.com/1_4.png)
 
 #### 用pymc模拟
 
@@ -129,7 +129,7 @@ hist(pcoin_trace, normed=True, bins=30);
 plot(p, pbeta, "r", label="n=20", lw=2)
 ```
 
-![](http://p049l0wjx.bkt.clouddn.com/1_5.png)
+![](http://graysliver.oss-cn-shenzhen.aliyuncs.com/1_5.png)
 
 ```python
 pcoin_trace.shape
