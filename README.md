@@ -20,4 +20,6 @@
 
 [Bandit算法——多摇臂赌博机](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/Bandit算法——多摇臂赌博机.md)
 
+[二项分布和Beta分布](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/二项分布和Beta分布.md)
+
 
