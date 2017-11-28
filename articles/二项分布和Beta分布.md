@@ -67,7 +67,7 @@ plot(p, pbeta, label="k=5", lw=2)
 k = 4
 pbeta = stats.beta.pdf(p, k+1, n-k+1)
 plot(p, pbeta, label="k=4", lw=2)
-xlabel("<img src="http://latex.codecogs.com/gif.latex?p"/>")
+xlabel("$p$")
 legend(loc="best");
 ```
 
@@ -75,7 +75,7 @@ legend(loc="best");
 
 下面绘制<img src="http://latex.codecogs.com/gif.latex?n=10, k=4"/>和<img src="http://latex.codecogs.com/gif.latex?n=20, k=8"/>的概率分布。可以看出峰值都在<img src="http://latex.codecogs.com/gif.latex?p=0.4"/>处，但是<img src="http://latex.codecogs.com/gif.latex?n=20"/>的山峰更陡峭。也就是说随着实验次数的增加，<img src="http://latex.codecogs.com/gif.latex?p"/>取其它值的可能就越小，对<img src="http://latex.codecogs.com/gif.latex?p"/>的估计就更有信心，因此山峰也就更陡峭了。
 
-```python
+```PYTHON
 n = 10
 k = 4
 p = np.linspace(0, 1, 100)
@@ -86,7 +86,7 @@ n = 20
 k = 8
 pbeta = stats.beta.pdf(p, k+1, n-k+1)
 plot(p, pbeta, label="n=20", lw=2)
-xlabel("<img src="http://latex.codecogs.com/gif.latex?p"/>")
+xlabel("$p$")
 legend(loc="best")
 ```
 
