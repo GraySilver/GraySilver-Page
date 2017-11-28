@@ -22,4 +22,8 @@
 
 [二项分布和Beta分布](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/二项分布和Beta分布.md)
 
+#### C++
+
+[c++的引用](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/c++/c++的引用.md)
+
 
