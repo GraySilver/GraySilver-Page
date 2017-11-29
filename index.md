@@ -22,6 +22,10 @@
 
 [二项分布和Beta分布](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/二项分布和Beta分布.md)
 
+[树模型中处理数据缺失值的思路](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/树模型中处理数据缺失值的思路.md)
+
+[特征处理方法之特征分类](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/特征处理方法之特征分类.md)
+
 #### C++
 
 [c++的引用](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/c++/c++的引用.md)
