@@ -29,3 +29,9 @@
 #### C++
 
 [c++的引用](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/c++/c++的引用.md)
+
+#### Java
+
+[Java的类](https://github.com/GraySilver/Java_note/blob/master/articles/Java的类.md)
+
+[AbstractMap](https://github.com/GraySilver/Java_note/blob/master/articles/AbstractMap.md)
