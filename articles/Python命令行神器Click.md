@@ -2,6 +2,12 @@
 
 ![](http://graysliver.oss-cn-shenzhen.aliyuncs.com/click.JPG)
 
+### 安装
+
+```shell
+pip install click
+```
+
 ### 简单入门
 
 ```python
