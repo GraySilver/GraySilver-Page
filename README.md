@@ -28,6 +28,8 @@
 
 [Python命令行神器Click](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/Python命令行神器Click.md)
 
+[遗传算法更新BP网络](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/遗传算法更新BP网络.md)
+
 #### C++
 
 [c++的引用](https://github.com/GraySilver/GraySilver-Page/blob/master/articles/c++/c++的引用.md)
